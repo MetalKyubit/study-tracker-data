@@ -4,5 +4,14 @@
  "start": "2026-10-15",
  "end": "2027-02-01",
  "papers": 0,
- "topics": []
+ "topics": [
+  {
+   "id": "6a341cb2-08a8-41a9-9821-8c8b99a02bfd",
+   "title": "Ion tra",
+   "status": 0,
+   "resources": [],
+   "start": 0,
+   "span": 1
+  }
+ ]
 }
