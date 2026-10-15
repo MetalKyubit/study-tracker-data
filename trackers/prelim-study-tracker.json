@@ -7,7 +7,7 @@
  "blocks": [
   {
    "id": "df7c8efe-b9ed-4e5f-9267-eb3e5cfaec29",
-   "span": 2,
+   "span": 1,
    "topics": [
     {
      "id": "7d4e039a-6141-4e42-911b-a9e27a8122ad",
@@ -22,6 +22,11 @@
      "resources": []
     }
    ]
+  },
+  {
+   "id": "56c8282c-dea6-41fc-b662-3e9b5d993f9a",
+   "span": 1,
+   "topics": []
   },
   {
    "id": "d6db5816-0e5d-4bdd-a34d-dc2610f3378f",
