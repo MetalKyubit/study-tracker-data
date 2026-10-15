@@ -7,13 +7,21 @@
  "blocks": [
   {
    "id": "df7c8efe-b9ed-4e5f-9267-eb3e5cfaec29",
-   "span": 1,
-   "topics": []
-  },
-  {
-   "id": "a4162bf6-fb2b-49af-9d0b-8274bc8172cc",
-   "span": 1,
-   "topics": []
+   "span": 2,
+   "topics": [
+    {
+     "id": "7d4e039a-6141-4e42-911b-a9e27a8122ad",
+     "title": "Ion Trapping",
+     "status": 0,
+     "resources": []
+    },
+    {
+     "id": "bc2b2717-a0d9-48e0-8784-9f79894964ba",
+     "title": "Laser Cooling",
+     "status": 0,
+     "resources": []
+    }
+   ]
   },
   {
    "id": "d6db5816-0e5d-4bdd-a34d-dc2610f3378f",
