@@ -18,6 +18,14 @@
    ],
    "start": 0,
    "span": 2
+  },
+  {
+   "id": "45868c3e-70f8-4e55-9e6a-6e5f9d0a594d",
+   "title": "Laser Cooling",
+   "status": 0,
+   "resources": [],
+   "start": 1,
+   "span": 1
   }
  ]
 }
