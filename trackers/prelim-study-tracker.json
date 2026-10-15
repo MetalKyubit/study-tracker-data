@@ -4,14 +4,5 @@
  "start": "2026-10-15",
  "end": "2027-02-01",
  "papers": 0,
- "topics": [
-  {
-   "id": "7d4e039a-6141-4e42-911b-a9e27a8122ad",
-   "title": "Ion Trapping",
-   "status": 0,
-   "resources": [],
-   "start": 0,
-   "span": 1
-  }
- ]
+ "topics": []
 }
