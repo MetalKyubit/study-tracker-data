@@ -9,7 +9,13 @@
    "id": "6a341cb2-08a8-41a9-9821-8c8b99a02bfd",
    "title": "Ion trapping ",
    "status": 0,
-   "resources": [],
+   "resources": [
+    {
+     "id": "9326d4e3-985b-4519-94cc-45d4ef1c918c",
+     "name": "",
+     "link": ""
+    }
+   ],
    "start": 0,
    "span": 2
   },
