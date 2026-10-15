@@ -26,6 +26,30 @@
    "resources": [],
    "start": 1,
    "span": 1
+  },
+  {
+   "id": "bca83dd3-b07a-4356-8338-11af53d15b3b",
+   "title": "Electric Dipole transitions",
+   "status": 0,
+   "resources": [],
+   "start": 2,
+   "span": 1
+  },
+  {
+   "id": "0ba12b98-ccac-4ba9-9f94-3d8c7f768aa1",
+   "title": "Quadrupole Transitions",
+   "status": 0,
+   "resources": [],
+   "start": 2,
+   "span": 1
+  },
+  {
+   "id": "7f08b30e-fe8f-4df5-883c-98cc1b39b4a9",
+   "title": "",
+   "status": 0,
+   "resources": [],
+   "start": 1,
+   "span": 1
   }
  ]
 }
