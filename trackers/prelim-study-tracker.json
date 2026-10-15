@@ -1,24 +1,84 @@
 {
- "version": 2,
+ "version": 3,
  "title": "Prelim study tracker",
  "start": "2026-10-15",
  "end": "2027-02-01",
  "papers": 0,
- "weeks": [
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  []
+ "blocks": [
+  {
+   "id": "df7c8efe-b9ed-4e5f-9267-eb3e5cfaec29",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "a4162bf6-fb2b-49af-9d0b-8274bc8172cc",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "d6db5816-0e5d-4bdd-a34d-dc2610f3378f",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "d4d168e5-aa60-4d1d-a10e-958ff3af2342",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "62bb12df-d11f-45ef-a664-35cd33b24902",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "f83f095c-5c54-454d-90f4-123d5e6a75d7",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "6e5d31dc-0941-4f63-b43a-32fe80360597",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "7c4d8dba-5c99-4941-8fc8-1e9cb104c83c",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "71d0b250-dd8b-4da6-9e91-80a091b7e91b",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "1fbef673-3572-4e77-93d8-a30b511c6719",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "cb8dca05-7270-4ae3-a873-f3a352c5dfab",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "efa32425-c0b1-44fd-b907-b7731806ff14",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "ca1873eb-06d0-4bb5-8ac4-10575abcf307",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "795dc9be-3c4e-4ee7-8952-451264d2936e",
+   "span": 1,
+   "topics": []
+  },
+  {
+   "id": "a8ef44c3-ba64-45c5-b3fd-9c71f65362fe",
+   "span": 1,
+   "topics": []
+  }
  ]
 }
