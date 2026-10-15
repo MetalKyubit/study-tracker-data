@@ -1,2 +1,2 @@
 # study-tracker-data
-This is a private repo for storing all the data in my study tracker website to be able to sync my progress over multiple devices. This allows me to create a website link to access the tracker and also keeps my progress private.
+This is a private repo for storing all the data in my study tracker website to be able to sync my progress over multiple devices. This allows me to create a website link to access the trackers and also keeps my progress private.I can track multiple study progress using the same link by changeing the tracking and it will automatically track a new progress. It will create a new data file in the tracker-data repo for each new tracking,
